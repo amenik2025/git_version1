@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_authentification_cas_passant</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d0ac95f-7180-411d-8f3d-ebabe9298595</testCaseGuid>
+</TestCaseEntity>
